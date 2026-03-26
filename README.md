@@ -16,4 +16,4 @@ brew install go-task
   - Линтинг кода
   - Проверка безопасности
   - Выполняется автоматическое извлечение версий из Taskfile.yml
-# boilerplate_for_hw
+
